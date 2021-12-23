@@ -1,0 +1,19 @@
+body {
+  background-color: #f3f4ed;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+    color: #5584AC;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #5584AC;
+}
